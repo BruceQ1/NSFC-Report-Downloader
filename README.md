@@ -25,6 +25,8 @@ The program **only simulates normal human browsing** with built‑in delays. It 
 - 将多页图片自动转换为一个 PDF 文件
 - 内置随机/固定延迟，避免对源服务器造成过大压力
 - 无需认证，不突破任何反爬机制
+  
+---
 ## 📥 获取软件
 
 - **代码版**：克隆本仓库，安装依赖后运行 `python main.py`。
